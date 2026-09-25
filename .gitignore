@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+client_secret*.json
+credentials.json
+classroom-auth.enc*
+tasks.json*
+*.log
